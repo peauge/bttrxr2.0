@@ -1,0 +1,104 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "bttrxr",
+        "scope": null,
+        "escapedName": "bttrxr",
+        "name": "bttrxr",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\jundayz\\Documents\\crypt\\bttrxr"
+    ]
+  ],
+  "_from": "bttrxr@latest",
+  "_id": "bttrxr@1.0.10",
+  "_inCache": true,
+  "_location": "/bttrxr",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/bttrxr-1.0.10.tgz_1499799169537_0.6599555220454931"
+  },
+  "_npmUser": {
+    "name": "dokka",
+    "email": "scuffmark@gmail.com"
+  },
+  "_npmVersion": "5.1.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "bttrxr",
+    "scope": null,
+    "escapedName": "bttrxr",
+    "name": "bttrxr",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/bttrxr/-/bttrxr-1.0.10.tgz",
+  "_shasum": "66fa4825a954e076d215c3b33ecc99b285f3d642",
+  "_shrinkwrap": null,
+  "_spec": "bttrxr",
+  "_where": "C:\\Users\\jundayz\\Documents\\crypt\\bttrxr",
+  "author": {
+    "name": "dokka",
+    "email": "scuffmark@gmail.com",
+    "url": "http://github.com/dokka/"
+  },
+  "bin": {
+    "bttrxr": "bin/bttrxr.js"
+  },
+  "bugs": {
+    "url": "https://github.com/DOKKA/bttrxr/issues"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cli-table2": "^0.2.0",
+    "colors": "^1.1.2",
+    "lodash": "^4.17.4",
+    "node.bittrex.api": "^0.3.2",
+    "request": "^2.81.0",
+    "yargs": "^8.0.2"
+  },
+  "description": "a command line app for buying and selling coins on bittrex",
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "dist": {
+    "integrity": "sha512-C6hzXJIUwyRLpRENp/0QPc0wbzgCYU3hsG117tILWQ77r8jBB/AAWzkSk4b10Oas0XjtI4yw4krYa335qSeIvA==",
+    "shasum": "66fa4825a954e076d215c3b33ecc99b285f3d642",
+    "tarball": "https://registry.npmjs.org/bttrxr/-/bttrxr-1.0.10.tgz"
+  },
+  "gitHead": "6665f3d4e75005e7f2f964b140895c3a84b278b3",
+  "homepage": "https://github.com/DOKKA/bttrxr",
+  "keywords": [
+    "bitcoin",
+    "bittrex",
+    "trading"
+  ],
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "maintainers": [
+    {
+      "name": "dokka",
+      "email": "scuffmark@gmail.com"
+    }
+  ],
+  "name": "bttrxr",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DOKKA/bttrxr.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.10"
+}
